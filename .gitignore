@@ -102,3 +102,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/java,windows,linux,macos
+/Fundamentos/Variables/nbproject/private/
+/Fundamentos/Variables/build/
