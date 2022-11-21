@@ -14,6 +14,10 @@ public class Variables {
     
     String miVariableCadena = "Saludos";
     System.out.println(miVariableCadena);
+    
+    // Con var se usa para la inferencia de tipos en Java
+    var miVariableEntera2 = 15;
+    System.out.println(miVariableEntera2 );
   }
   
 }
